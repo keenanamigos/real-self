@@ -1,0 +1,13 @@
+{
+  "name": "real-self",
+  "version": "1.0.0",
+  "description": "Small script to interact with the RealSelf Search API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
